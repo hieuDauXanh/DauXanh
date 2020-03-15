@@ -1,4 +1,4 @@
-﻿# ASP.NET Core 3.1 project from DauXanh
+# ASP.NET Core 3.1 project from DauXanh
 ## Technologies
 - ASP.NET Core 3.1
 - Entity Framework Core 3.1
